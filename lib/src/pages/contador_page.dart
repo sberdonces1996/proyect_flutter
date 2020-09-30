@@ -15,6 +15,7 @@ class _ContadorPageState extends State<ContadorPage> {
         appBar: AppBar(
           title: Text('Stateful'),
           centerTitle: true,
+          elevation: 50.0,
         ),
         body: Center(
             child: Column(
